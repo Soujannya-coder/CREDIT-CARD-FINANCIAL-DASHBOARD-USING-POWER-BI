@@ -67,13 +67,12 @@ Contributions to the project are welcome! If you have ideas for improvements or 
 
 
 **Credits:**
-- Developed by Aftab Mallick
+- Developed by Soujannya Deb
 
 
 **Feedback:**
-We welcome any feedback or suggestions for enhancing the Credit Card Financial Dashboard project. Please feel free to reach out to [Linkedin](https://www.linkedin.com/in/aftab-mallick/) with your thoughts.
+We welcome any feedback or suggestions for enhancing the Credit Card Financial Dashboard project. Please feel free to reach out to [Linkedin](https://www.linkedin.com/in/soujannya-deb/) with your thoughts.
 
 **Contact:**
-- [Linkedin](https://www.linkedin.com/in/aftab-mallick/)
-- Email - aftabmallick007@gmail.com
-- [Website](https://aftabmallick.github.io/ml_portfolio/)
+- [Linkedin](https://www.linkedin.com/in/soujannya-deb/)
+- Email - soujannyadeb.student@gmail.com
